@@ -24,9 +24,9 @@
 <p align="center">
   <em>(Dark Mode / Light Mode)</em>
   <br><br>
-  <strong>[Your Dark Mode Screenshot Here]</strong>
+  <img src="./dark.png" alt="Dark Mode Screenshot" width="400"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>[Your Light Mode Screenshot Here]</strong>
+  <img src="./light.png" alt="Light Mode Screenshot" width="400"/>
 </p>
 
 
