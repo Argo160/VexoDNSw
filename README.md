@@ -69,3 +69,14 @@ This is the easiest way for most users to get the application.
 6.  Use the `🛡️ Connect DNS` / `✅ Disconnect DNS` button to manage your DNS settings.
 
 ## The Source will be Uploaded Soon!!? 
+
+---
+
+## 💖 Support & Donations
+   
+* **USDT (BEP20 Network - BSC):**
+    `0x3729348A169359a8Aa70a0627f3737aF4c6D1929`
+
+<p align="center">
+  <strong>Thank you for your support!</strong>
+</p>
