@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Vexo Subscription Checker Logo" width="150"/>
+  <img src="./logo.jpg" alt="Vexo Subscription Checker Logo" width="150"/>
 </p>
 
 <h1 align="center">Vexo Subscription Checker</h1>
