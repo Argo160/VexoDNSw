@@ -61,7 +61,7 @@
 
 This is the easiest way for most users to get the application.
 
-1.  Go to the [**Releases**](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) page of this repository.
+1.  Go to the [**Releases**](https://github.com/Argo160/VexoDNSw/releases) page of this repository.
 2.  Download the latest `.exe` file (e.g., `VexoChecker_v1.0.exe`).
 3.  Run the application. It will automatically request Administrator access, which is necessary to change your DNS.
 4.  Click the `➕` button in the top-right corner to add or edit your Vexo subscription link.
