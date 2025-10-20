@@ -68,51 +68,6 @@ This is the easiest way for most users to get the application.
 5.  Click `🔄 Check Information` to fetch your data.
 6.  Use the `🛡️ Connect DNS` / `✅ Disconnect DNS` button to manage your DNS settings.
 
-## 🛠️ For Developers (Building from Source)
-
-If you want to run or build the application from the Python source code:
-
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git)
-    cd YOUR_REPO
-    ```
-
-2.  **Create and activate a virtual environment (recommended):**
-    ```sh
-    python -m venv venv
-    .\venv\Scripts\activate
-    ```
-
-3.  **Install the required packages:**
-    ```sh
-    pip install requests ttkbootstrap Pillow
-    ```
-
-4.  **Run the application:**
-    ```sh
-    python main.py
-    ```
-
-5.  **Building the .exe (Optional):**
-    If you want to compile the application into a single `.exe` file, you'll need `pyinstaller`.
-    ```sh
-    pip install pyinstaller
-    ```
-    Then, run the following command from the repository's root directory. This command ensures all assets (images, translation files) are bundled correctly.
-    ```sh
-    pyinstaller --onefile --windowed --icon=logo.ico ^
-    --add-data "logo.png;." ^
-    --add-data "logo.ico;." ^
-    --add-data "en.json;." ^
-    --add-data "fa.json;." ^
-    --add-data "ru.json;." ^
-    --add-data "zh.json;." ^
-    -n VexoChecker ^
-    main.py
-    ```
-    Your final `VexoChecker.exe` will be in the `dist` folder.
-
 ## 📄 License
-
+**Comin Soon**
 This project is open-source and available under the [MIT License](LICENSE).
