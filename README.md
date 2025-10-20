@@ -80,3 +80,7 @@ This is the easiest way for most users to get the application.
 <p align="center">
   <strong>Thank you for your support!</strong>
 </p>
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
