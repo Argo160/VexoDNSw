@@ -68,6 +68,4 @@ This is the easiest way for most users to get the application.
 5.  Click `🔄 Check Information` to fetch your data.
 6.  Use the `🛡️ Connect DNS` / `✅ Disconnect DNS` button to manage your DNS settings.
 
-## 📄 License
-**Comin Soon**
-This project is open-source and available under the [MIT License](LICENSE).
+## The Source will be Uploaded Soon!!? 
