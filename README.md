@@ -26,7 +26,7 @@
   <br><br>
   <img src="./dark.PNG" alt="Dark Mode Screenshot" width="400"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./light.PNG" alt="Light Mode Screenshot" width="400"/>
+  <img src="./light.png" alt="Light Mode Screenshot" width="400"/>
 </p>
 
 
