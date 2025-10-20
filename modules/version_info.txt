@@ -1,0 +1,26 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(0, 7, 0, 0),
+    prodvers=(0, 7, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable(u'040904B0', [
+        StringStruct(u'CompanyName', u'Vexo Development Team'),
+        StringStruct(u'FileDescription', u'Vexo DNS Subscription Manager - Network Configuration Utility'),
+        StringStruct(u'FileVersion', u'0.7.0.0'),
+        StringStruct(u'InternalName', u'VexoChecker'),
+        StringStruct(u'LegalCopyright', u'Copyright (C) 2025 Vexo Development Team'),
+        StringStruct(u'OriginalFilename', u'VexoChecker.exe'),
+        StringStruct(u'ProductName', u'Vexo DNS Manager'),
+        StringStruct(u'ProductVersion', u'0.7.0.0')])
+      ]), 
+    VarFileInfo([VarStruct(u'Translation', [1033, 1200])])
+  ]
+)
