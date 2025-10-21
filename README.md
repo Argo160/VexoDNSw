@@ -2,7 +2,7 @@
   <img src="./logo.jpg" alt="Vexo Subscription Checker Logo" width="150"/>
 </p>
 
-<h1 align="center">Vexo Subscription Checker</h1>
+<h1 align="center">VexoDNS Windows</h1>
 
 <p align="center">
   A modern, multi-language GUI application for Windows to check your Vexo subscription status and manage your DNS settings with one click.
